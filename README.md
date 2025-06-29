@@ -51,7 +51,7 @@ This project demonstrates:
 
 If you're hiring for a frontend role and value clean code, performance, and attention to UI detail, I'd love to hear from you.
 
-**Phone:** +91-9146041466 
+**Phone:** +91-9146041466  
 **Email:** omkarwaikar72@gmail.com  
 **LinkedIn:** [linkedin.com/in/omkar-waikar-71b83a171](https://linkedin.com/in/omkar-waikar-71b83a171)  
 **GitHub:** [github.com/Omkar04099](https://github.com/Omkar04099)
